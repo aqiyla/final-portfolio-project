@@ -36,7 +36,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  color: green;
+  color: #127c56;
   padding: 160px 20px;
 }
 
