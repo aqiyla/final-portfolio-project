@@ -1,5 +1,5 @@
 :root {
-  --branding-color: #468966;
+  --branding-color: #01352c;
   --secondary-color: #c9f0d6;
   --heading-font-family: "Merriweather", serif;
   --default-font-family: "Poppins", sans-serif;
@@ -36,7 +36,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  color: #127c56;
+  color: var(--branding-color);
   padding: 160px 20px;
 }
 
