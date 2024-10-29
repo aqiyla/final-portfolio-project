@@ -149,8 +149,6 @@ p {
 }
 
 .content-container img {
-  box-sizing: border-box;
-
   padding: 20px 20px;
 }
 
