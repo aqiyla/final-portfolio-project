@@ -168,6 +168,7 @@ footer .source-link {
 }
 
 .about-section h1 {
+  color: var(--branding-color);
   font-size: 64px;
   line-height: 80px;
 }
@@ -202,6 +203,7 @@ footer .source-link {
 
 .content-hero h1 {
   font-size: 64px;
+  color: var(--branding-color);
 }
 .content-hero h2 {
   font-family: var(--default-font-family);
