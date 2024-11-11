@@ -158,6 +158,14 @@ footer .source-link {
     padding: 0;
     text-align: center;
   }
+
+  .flex-item {
+    flex-direction: column-reverse;
+  }
+
+  .flex-description {
+    margin-top: 60px;
+  }
 }
 
 .about-section {
